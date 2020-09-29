@@ -1,5 +1,5 @@
 import React from 'react';
-import Team from '../team/Team';
+// import Team from '../team/Team';
 
 class Game extends React.Component {
     constructor(props) {
